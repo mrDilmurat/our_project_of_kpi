@@ -1,0 +1,39 @@
+{
+  "kpi": [
+    {
+      "name": "Alik",
+      "phone": "055589894",
+      "weekKpi": "90",
+      "monthKpi": "90",
+      "id": 4
+    },
+    {
+      "name": "Dilmura",
+      "phone": "0555990099",
+      "weekKpi": "100",
+      "monthKpi": "100",
+      "id": 5
+    },
+    {
+      "name": "Dinara",
+      "phone": "0555667777",
+      "weekKpi": "90",
+      "monthKpi": "95",
+      "id": 6
+    },
+    {
+      "name": "Alibek",
+      "phone": "0555778800",
+      "weekKpi": "90",
+      "monthKpi": "100",
+      "id": 7
+    },
+    {
+      "name": "Alisa",
+      "phone": "0555443344",
+      "weekKpi": "90",
+      "monthKpi": "90",
+      "id": 8
+    }
+  ]
+}

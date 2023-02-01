@@ -1,0 +1,44 @@
+body {
+  background: no-repeat
+    url(https://wp-s.ru/wallpapers/15/17/326706507146191/t-mno-sinij-fon-s-svetlymi-polosami.jpg);
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 20px;
+  text-align: center;
+  color: #14b6de;
+}
+
+.btn-edit img,
+.btn-delete img {
+  width: 50px !important;
+  height: 30px;
+}
+.btn-delete,
+.btn-edit {
+  border: none;
+  background: none;
+}
+
+.table {
+  background: white;
+  border-radius: 3%;
+}
+.add-form {
+  border-radius: 3%;
+}
+.form-search {
+  width: 50%;
+  margin: 0 auto;
+  border-radius: 3%;
+}
+
+.form-control {
+  height: 50px;
+  background-color: rgb(206, 228, 246);
+  margin: 5px 0;
+}
+
+.search-inp {
+  margin: 0 auto;
+}
